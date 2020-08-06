@@ -1,8 +1,6 @@
 ![image](https://github.com/HeleneFabia/HeleneFabia/blob/master/header/header1.gif?raw=true)
 
-<h1></h1>
 
-<img src="https://img.icons8.com/wired/64/000000/c.png" width="2%"/><img src="https://img.icons8.com/wired/64/000000/o.png" width="2%"/><img src="https://img.icons8.com/wired/64/000000/n.png" width="2%"/><img src="https://img.icons8.com/wired/64/000000/t.png" width="2%"/><img src="https://img.icons8.com/wired/64/000000/a.png" width="2%"/><img src="https://img.icons8.com/wired/64/000000/c.png" width="2%"/><img src="https://img.icons8.com/wired/64/000000/t.png" width="2%"/> 
 
 [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/helene-kortschak/) 
 [<img src="https://img.icons8.com/windows/32/000000/kaggle.png" width="3.5%"/>](https://www.kaggle.com/helenek)
