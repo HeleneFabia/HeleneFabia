@@ -1,4 +1,4 @@
-![image](https://github.com/HeleneFabia/HeleneFabia/blob/master/header/header_2021.gif)
+![image](https://github.com/HeleneFabia/HeleneFabia/blob/master/header/header_21.gif)
 
 [<img src="https://img.icons8.com/wired/64/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/helene-kortschak/) 
 [<img src="https://img.icons8.com/wired/64/000000/k.png" width="4%"/>](https://www.kaggle.com/helenek)
