@@ -27,5 +27,5 @@
 - [ML Algorithms from Scratch](https://github.com/HeleneFabia/ml-algorithms-from-scratch)
 
 **Articles**
-- [How to code when all you know are Jupyter Notebooks. A beginner’s guide to switching from notebooks to Python files](https://towardsdatascience.com/how-to-code-when-all-you-know-are-jupyter-notebooks-78cf8d4f32e0)
+- [How to code when all you know are Jupyter Notebooks](https://towardsdatascience.com/how-to-code-when-all-you-know-are-jupyter-notebooks-78cf8d4f32e0)
 - [Attention and Transformer Models. A complex algorithm, simply explained](https://towardsdatascience.com/attention-and-transformer-models-fe667f958378)
